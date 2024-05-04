@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# GReact Course
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project contains the code of a React course that I did.
 
 ## Available Scripts
 
